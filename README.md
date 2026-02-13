@@ -101,7 +101,8 @@ npm run dev
 
 SynKapwa is built on the spirit of fellowship. If you have ideas for new RPG mechanics or mini-games, feel free to open an issue or a PR!
 
-**Developed with 💙 by [Chariz**](https://www.google.com/search?q=https://github.com/chariz1101)
+**Developed with 💙 by [Chariz**](https://www.google.com/search?q=https://github.com/chariz1101)**
+
 *Computer Science Student (AI Major)*
 
 ---
